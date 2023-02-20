@@ -2,7 +2,7 @@
 
 modified version of metadata converter for cbt2
 
-# HOW TO BUILD:
+# HOW TO BUILD AND USE:
 - Add `C++ CMake tools for windows` in your Visual Studio installation
 - Open the folder in Visual Studio
 - Click on `Build` and then `Build All` on the top bar
