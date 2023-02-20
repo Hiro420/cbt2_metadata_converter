@@ -1,0 +1,10 @@
+# ninja log v5
+3	98	6985648219508460	CMakeFiles/mhycrypto.dir/crypto/aes.c.obj	5684b42e25aaa24a
+6	121	6985648219737846	CMakeFiles/mhycrypto.dir/crypto/memecrypto.cpp.obj	76a3c791516b5a7f
+20	228	6985648220745171	CMakeFiles/metadata.dir/tool/fileutils.cpp.obj	7093d85ae1c20ca4
+15	237	6985648220824990	CMakeFiles/metadata.dir/tool/main.cpp.obj	435b9c062454494a
+24	316	6985648221642747	CMakeFiles/metadata.dir/tool/globalmetadataconverter.cpp.obj	9825d780a74f3f8d
+12	433	6985648222849531	CMakeFiles/mhycrypto.dir/crypto/metadatastringdec.cpp.obj	446e1fd3e48f346c
+9	443	6985648222879462	CMakeFiles/mhycrypto.dir/crypto/metadata.cpp.obj	52ce87fc3681555d
+443	490	6985648223408039	mhycrypto.lib	ade5dd40f267de42
+490	1079	6985648225981144	metadata.exe	76b7716ed0c7388c

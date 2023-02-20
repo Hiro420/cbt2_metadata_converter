@@ -1,2 +1,4 @@
-# cbt2_metadata_converter
-modified version of metadata converter for cbt2
+# MetadataConverter
+
+Disclaimer: this is NOT my work! I just took the liberty of publishing it here.
+
